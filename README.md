@@ -1,4 +1,4 @@
-### Hello there! 🥰
+### welcome! 
 
 
 Junior developer majoring in Computer Information Systems.<br/>
