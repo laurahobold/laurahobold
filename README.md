@@ -2,21 +2,19 @@
 
 ###
 
+<br clear="both">
+
 <p align="left">Junior developer majoring in Computer Information Systems. Currently working on desktop customization using Awesome Window Manager on Linux Mint.</p>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="175" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno2cnRieGNzM2V3bzRlbGhrbmFnbzh0angwbGZhbzd5cW82YW9pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dr3yLwNXo43VLHmDg6/giphy.gif"  />
-</div>
+<img align="left" height="175" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno2cnRieGNzM2V3bzRlbGhrbmFnbzh0angwbGZhbzd5cW82YW9pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dr3yLwNXo43VLHmDg6/giphy.gif"  />
 
 ###
 
-<br clear="both">
-
-<div align="center">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
