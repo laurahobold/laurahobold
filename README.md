@@ -2,17 +2,15 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="200" src="https://64.media.tumblr.com/396e59b24a911f9efa94cc75758b5431/50046dd57b90f077-9f/s540x810/dba10eb21e7f6c9b6875cb32e96793e2b9c7777a.gifv"  />
-
-###
-
 <p align="left">Junior developer majoring in Computer Information Systems. Currently working on desktop customization using Awesome Window Manager on Linux Mint.</p>
 
 ###
 
 <br clear="both">
+
+<img align="right" height="200" src="https://64.media.tumblr.com/396e59b24a911f9efa94cc75758b5431/50046dd57b90f077-9f/s540x810/dba10eb21e7f6c9b6875cb32e96793e2b9c7777a.gifv"  />
+
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -33,9 +31,5 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/laurahobold/laurahobold/output/snake.svg" alt="Snake animation" />
 
 ###
