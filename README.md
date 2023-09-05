@@ -1,16 +1,14 @@
+<br clear="both">
+
 <h1 align="left">It's me, hi!</h1>
 
 ###
 
-<br clear="both">
-
-<p align="left">Junior developer majoring in Computer Information Systems. Currently working on desktop customization using Awesome Window Manager on Linux Mint.</p>
+<img align="left" height="185" src="https://64.media.tumblr.com/3de460c317d9b92edf958bd6dcf39e54/15147122812ca685-ac/s1280x1920/095cf479c5499d3da342cea83d452017d1289752.gifv"  />
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno2cnRieGNzM2V3bzRlbGhrbmFnbzh0angwbGZhbzd5cW82YW9pOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dr3yLwNXo43VLHmDg6/giphy.gif"  />
+<p align="center">Junior developer majoring in Computer Information Systems. Currently working on desktop customization using Awesome Window Manager on Linux Mint.</p>
 
 ###
 
