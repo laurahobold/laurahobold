@@ -4,7 +4,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWJyb2FybTU1dDFzNzN6ZHVnNjdnODkzYTQ0NnZzODM1Nno4NDQyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/q2VWm0MRRiy7PR3kgt/giphy.gif"  />
+<img align="left" height="250" src="https://d1au4vljv71t01.cloudfront.net/forum/original/3X/5/e/5e35ef995770ccf29bd0530e19935eb080b5328d.png"  />
 
 ###
 
