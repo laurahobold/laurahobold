@@ -3,7 +3,7 @@
 
 ###
 
-<img align="left" height="300" src="https://64.media.tumblr.com/70b92a1e7efe1a1515c3e5e307c2bd4a/5a61ff5ad1240422-21/s250x400/d27b7334f959daa6488b44ca5750257bfb440f82.gifv"  />
+<img align="left" height="350" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1933b165-1ff0-4a4c-99c1-0b9a2becf6bf/defahcm-f8de1f78-ff92-4c93-a313-73a4bd172c09.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE5MzNiMTY1LTFmZjAtNGE0Yy05OWMxLTBiOWEyYmVjZjZiZlwvZGVmYWhjbS1mOGRlMWY3OC1mZjkyLTRjOTMtYTMxMy03M2E0YmQxNzJjMDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.oW4yS3jmHLER3s_2POfpJH_Bv2ZCJ-xjIc7GzrHW11U"  />
 
 ###
 
