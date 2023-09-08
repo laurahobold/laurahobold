@@ -7,7 +7,7 @@
 
 ###
 
-<p align="center">Junior developer majoring in Computer Information Systems. Currently working on desktop customization using Awesome Window Manager on Linux Mint.</p>
+<p align="left">𝐉𝐮𝐧𝐢𝐨𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐦𝐚𝐣𝐨𝐫𝐢𝐧𝐠 𝐢𝐧 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐒𝐲𝐬𝐭𝐞𝐦𝐬. 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐝𝐞𝐬𝐤𝐭𝐨𝐩 𝐜𝐮𝐬𝐭𝐨𝐦𝐢𝐳𝐚𝐭𝐢𝐨𝐧 𝐮𝐬𝐢𝐧𝐠 𝐀𝐰𝐞𝐬𝐨𝐦𝐞 𝐖𝐢𝐧𝐝𝐨𝐰 𝐌𝐚𝐧𝐚𝐠𝐞𝐫 𝐨𝐧 𝐋𝐢𝐧𝐮𝐱 𝐌𝐢𝐧𝐭.</p>
 
 ###
 
