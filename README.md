@@ -39,8 +39,11 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
 </div>
-<!--START_SECTION:waka-->
 
-<!--END_SECTION:waka-->
 
 ###
+<!--START_SECTION:waka-->
+### <h2><img src="https://media.tenor.com/mr9ZTxhFxVAAAAAi/annoying-dog-undertale.gif" width="30"> 𝗪𝗮𝗸𝗮𝘁𝗶𝗺𝗲 𝘀𝘁𝗮𝘁𝘀 
+</h2>
+<a href="https://wakatime.com"><img width="500" src="https://wakatime.com/share/@laurinha/aedc3c16-b16e-4c2d-9d60-65f9c74c8498.png" /> <img width="500" src="https://wakatime.com/share/@laurinha/38272461-049a-4264-b4ae-6af547fe505d.png" /></a>
+<!--END_SECTION:waka-->
