@@ -2,7 +2,7 @@
 <h1><img src="https://media.tenor.com/7AiUk0_JLvEAAAAj/sanrio-cinnamoroll.gif" width="40"/> 𝗛𝗲𝘆, 𝗜'𝗺 𝗟𝗮𝘂𝗿𝗮</h1>
 
 ###
-<img align="right" width="350" src="https://media.tenor.com/no2CaWaci50AAAAi/needy-streamer-overload-reading.gif"  />
+<img align="right" width="350" src="https://i.ibb.co/MZszvJ3/1648295775-11-abrakadabra-fun-p-aska-art-24.png"  />
 
 [![Linkedin: laurahobold](https://img.shields.io/badge/-laurahobold-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laurahobold/)](https://www.linkedin.com/in/laurahobold/)
 [![wakatime](https://wakatime.com/badge/user/50afa9a3-cda1-4676-953f-200674aa1687/project/4f780d78-98b6-45fb-894a-5ca4327ddb1f.svg)](https://wakatime.com/badge/user/50afa9a3-cda1-4676-953f-200674aa1687/project/4f780d78-98b6-45fb-894a-5ca4327ddb1f)
