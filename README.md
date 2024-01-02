@@ -15,7 +15,7 @@
 ### <h2><img src="https://media.tenor.com/mr9ZTxhFxVAAAAAi/annoying-dog-undertale.gif" width="30"> 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀/𝗧𝗼𝗼𝗹𝘀
 </h2>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
   <img width="7" />
