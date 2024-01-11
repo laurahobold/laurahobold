@@ -1,5 +1,5 @@
 
-<h1><img src="https://media.tenor.com/7AiUk0_JLvEAAAAj/sanrio-cinnamoroll.gif" width="40"/> 𝗛𝗲𝘆, 𝗜'𝗺 𝗟𝗮𝘂𝗿𝗮</h1>
+<h1><img src="https://media.tenor.com/7AiUk0_JLvEAAAAj/sanrio-cinnamoroll.gif" width="35"/> 𝗛𝗲𝘆, 𝗜'𝗺 𝗟𝗮𝘂𝗿𝗮</h1>
 
 ###
 <img align="right" width="350" src="https://i.pinimg.com/originals/b1/ad/ba/b1adba819abf70d9ea98d4e65ea9f2a5.gif"  />
