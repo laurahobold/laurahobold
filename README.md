@@ -7,7 +7,7 @@
 
 
 <div align="left">
-  <a href="www.linkedin.com/in/laurahobold" target="_blank">
+  <a href="www.linkedin.com/in/laurahobold" target="www.linkedin.com/in/laurahobold">
     <img src="https://img.shields.io/static/v1?message=laurahobold&logo=linkedin&label=&color=ff93b9&logoColor=ff93b9&labelColor=484646&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="discordapp.com/users/907345575509389412" target="_blank">
