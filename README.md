@@ -12,11 +12,11 @@
   </a>
   <a href="discordapp.com/users/907345575509389412" target="_blank">
     <img src="https://img.shields.io/static/v1?message=laurjnha&logo=discord&label=&color=ff93b9&logoColor=ff93b9&labelColor=484646&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
+  </a> 
 </div>
 
 ###
-[![wakatime](https://wakatime.com/badge/user/50afa9a3-cda1-4676-953f-200674aa1687/project/4f780d78-98b6-45fb-894a-5ca4327ddb1f.svg?style=flat-square&label=&color=ff93b9&logoColor=ff93b9&labelColor=484646)](https://wakatime.com/badge/user/50afa9a3-cda1-4676-953f-200674aa1687/project/4f780d78-98b6-45fb-894a-5ca4327ddb1f)
+[![wakatime](https://wakatime.com/badge/user/50afa9a3-cda1-4676-953f-200674aa1687.svg?style=flat-square&label=&color=ff93b9&logoColor=ff93b9&labelColor=484646)](https://wakatime.com/@50afa9a3-cda1-4676-953f-200674aa1687)
 
 <h2><img src="https://media.tenor.com/mr9ZTxhFxVAAAAAi/annoying-dog-undertale.gif" width="30"> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 
 </h2>
