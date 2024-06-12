@@ -2,7 +2,7 @@
 </h2>
 
 ###
-<img align="right" width="350" src="https://i.pinimg.com/originals/b1/ad/ba/b1adba819abf70d9ea98d4e65ea9f2a5.gif"  />
+<img align="right" width="300" src="https://i.pinimg.com/originals/b1/ad/ba/b1adba819abf70d9ea98d4e65ea9f2a5.gif"  />
 
 <div align="left">
   <a href="www.linkedin.com/in/laurahobold" target="www.linkedin.com/in/laurahobold">
@@ -49,5 +49,5 @@
 ###
 <!--START_SECTION:waka-->
 ###
-<a href="https://wakatime.com"><img width="600" align="center" src="https://wakatime.com/share/@laurinha/135a80dc-5d62-4b41-a2cf-5dfc6e9e2295.png" /></a>
+<a href="https://wakatime.com"><img width="400" align="center" src="https://wakatime.com/share/@laurinha/135a80dc-5d62-4b41-a2cf-5dfc6e9e2295.png" /></a>
 <!--END_SECTION:waka-->
