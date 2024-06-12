@@ -49,5 +49,5 @@
 ###
 <!--START_SECTION:waka-->
 ###
-<a href="https://wakatime.com"><img width="400" align="center" src="https://wakatime.com/share/@laurinha/135a80dc-5d62-4b41-a2cf-5dfc6e9e2295.png" /></a>
+<a href="https://wakatime.com"><img width="500" align="center" src="https://wakatime.com/share/@laurinha/135a80dc-5d62-4b41-a2cf-5dfc6e9e2295.png" /></a>
 <!--END_SECTION:waka-->
